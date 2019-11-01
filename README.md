@@ -36,4 +36,8 @@ int main(void)
 	cout<<"Hellow World ! "<<endl;
 	return 0;
 }
-```
+```多行code(C++)
+
+Windows|Macs/Linux|說明
+:------|:------:|------
+cd|cd|切換目錄
