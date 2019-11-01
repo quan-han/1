@@ -27,3 +27,13 @@
 >google圖片
 
 #`x = 1 + 2 ;`程式碼文字效果
+
+```C++
+#include<iostream>
+using namespace std;
+int main(void)
+{
+	cout<<"Hellow World ! "<<endl;
+	return 0;
+}
+```
